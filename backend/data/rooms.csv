@@ -1,0 +1,241 @@
+room_id,lister_id,title,room_type,furnished,area,lat,lng,rent,status,posted_at
+R001,L21,Shared room in Madhapur,shared,no,Madhapur,17.42735,78.40058,Rs. 28000,active,2026-09-12
+R002,L58,Shared room in Kondapur,shared,No,Kondapur,17.48223,78.33069,6000/month,active,2026-10-16
+R003,L53,Private room in Gachibowli,private,yes,Gachibowli,17.43775,78.37698,Rs. 9000,active,2026-09-28
+R004,L19,Shared room in Gachibowli,shared,no,Gachibowli,,,18k,active,2026-10-08
+R005,L01,Private room in Tolichowki, private,Yes,Tolichowki,17.39776,78.42078,13000,active,2026-10-25
+R006,L47,Shared room in Gachibowli,shared,no,Gachibowli,17.44608,78.33822,13k,active,2026-10-12
+R007,L47,Private room in Tolichowki,PRIVATE,no,Tolichowki,17.38718,78.42904,"Rs 10,000",active,2026-09-05
+R008,L37,Studio room in Tolichowki,studio,yes,Tolichowki,17.40938,78.40851,"12,000",active,2026-08-05
+R009,L40,Private room in Gachibowli,private,no,Gachibowli,78.35301,17.41607,14000,active,2026-08-14
+R010,L03,Private room in Ameerpet,Private,Yes,Ameerpet,17.41775,78.43106,12000,active,2026-08-08
+R011,L07,Shared room in Gachibowli,shared,No,Gachibowli,17.44737,78.36992,"Rs 6,000",active,2026-10-05
+R012,L51,Studio room in Miyapur,studio,yes,Miyapur,17.47500,78.38023,"16,000",active,2026-09-30
+R013,L30,Shared room in Kondapur,shared,No,Kondapur,17.47787,78.36728,22000,active,2026-09-20
+R014,L16,Private room in Gachibowli,Private,yes,Gachibowli,17.44867,78.34116,"Rs 13,000",active,2026-09-06
+R015,L33,Private room in Gachibowli,private,yes,Gachibowli,17.45933,78.35498,"28,000",active,2026-10-18
+R016,L31,Private room in Kondapur,private,Yes,Kondapur,17.49333,78.35544,"Rs 22,000",active,2026-10-19
+R017,L01,Private room in Nanakramguda,private,yes,Nanakramguda,17.40497,78.32233,11000,active,2026-08-14
+R018,L31,Private room in Miyapur,private,Yes,Miyapur,17.51092,78.38178,6000/month,active,2026-09-04
+R019,L59,Studio room in Kondapur,studio,no,Kondapur,17.47189,78.36106,10k,active,2026-09-25
+R020,L19,Shared room in Nanakramguda,shared,no,Nanakramguda,17.40482,78.34185,10k,let,2026-08-29
+R021,L41,Private room in Manikonda,private,No,Manikonda,17.38696,78.37624,9k,active,2026-08-07
+R022,L04,Studio room in Banjara Hills,studio,yes,Banjara Hills,17.43318,78.45124,6000,active,2026-10-06
+R023,L30,Shared room in Madhapur,Shared,No,Madhapur,17.44705,78.39450,11k,active,2026-09-28
+R024,L28,Shared room in Gachibowli,shared,yes,Gachibowli,17.42514,78.33562,Rs. 9000,active,2026-10-24
+R025,L49,Shared room in Madhapur,shared ,yes,Madhapur,17.45376,78.38503,15000,inactive,2026-10-26
+R026,L28,Private room in Gachibowli,private,No,Gachibowli,17.43546,78.32133,"12,000",active,2026-09-18
+R027,L57,Shared room in Kondapur,shared,no,Kondapur,17.44767,78.34163,"14,000",active,2026-10-12
+R028,L35,Private room in Tolichowki,private,yes,Tolichowki,17.38621,78.38850,7500/month,let,2026-09-10
+R029,L05,Private room in Tolichowki,private,yes,Tolichowki,17.39188,78.40999,13k,active,2026-08-04
+R030,L29,Shared room in Miyapur,Shared,yes,Miyapur,78.35891,17.48343,Rs. 18000,active,2026-10-06
+R031,L33,Private room in Ameerpet,Private,yes,Ameerpet,17.43909,78.45095,15000/month,active,2026-08-06
+R032,L54,Shared room in Manikonda,shared ,no,Manikonda,17.39375,78.38846,"Rs 6,000",active,2026-09-22
+R033,L11,Private room in Ameerpet, private,no,Ameerpet,17.43860,78.45011,Rs. 11000,active,2026-08-03
+R034,L09,Shared room in Nanakramguda,shared,Yes,Nanakramguda,17.43108,78.35564,Rs. 14000,active,2026-09-23
+R035,L56,Shared room in Kondapur,shared ,yes,Kondapur,17.46717,78.35515,22k,active,2026-10-26
+R036,L38,Studio room in Kukatpally,Studio,Yes,Kukatpally,17.47464,78.40723,16000/month,active,2026-10-28
+R037,L02,Private room in Gachibowli,private,yes,Gachibowli,17.45463,78.34303,"Rs 28,000",active,2026-08-10
+R038,L26,Private room in Manikonda,private,yes,Manikonda,17.41063,78.36602,18000,active,2026-10-27
+R039,L51,Studio room in Miyapur,studio,yes,Miyapur,17.48349,78.35092,"12,500",active,2026-09-28
+R040,L35,Private room in Madhapur,private,Yes,Madhapur,17.45192,78.40094,10000/month,active,2026-10-27
+R041,L52,Private room in Kondapur,private,No,Kondapur,17.47773,78.35087,18000/month,active,2026-08-27
+R042,L48,Shared room in Tolichowki,shared,no,Tolichowki,17.40114,78.42225,9000/month,active,2026-08-31
+R043,L09,Private room in Madhapur,Private,no,Madhapur,17.46493,78.40135,"Rs 15,000",active,2026-09-06
+R044,L09,Shared room in Ameerpet,shared ,no,Ameerpet,17.44214,78.43916,28000/month,active,2026-11-03
+R045,L58,Private room in Kukatpally,PRIVATE,No,Kukatpally,17.48155,78.39795,"Rs 6,000",active,2026-09-10
+R046,L23,Private room in Gachibowli,private,Yes,Gachibowli,17.44410,78.35490,15000/month,active,2026-08-04
+R047,L26,Shared room in Gachibowli,shared,no,Gachibowli,17.41984,78.32448,15000/month,active,2026-09-02
+R048,L17,Studio room in Madhapur,studio,no,Madhapur,17.44876,78.40116,15000/month,active,2026-09-28
+R049,L40,Private room in Madhapur,private,yes,Madhapur,17.42269,78.40230,"6,000",active,2026-10-27
+R050,L19,Shared room in Ameerpet,shared ,no,Ameerpet,17.43291,78.45353,10000,active,2026-10-20
+R051,L44,Private room in Ameerpet,private,no,Ameerpet,,,8000,inactive,2026-08-23
+R052,L04,Private room in Manikonda,private,no,Manikonda,17.41326,78.39054,15k,let,2026-08-19
+R053,L13,Shared room in Nanakramguda,shared,no,Nanakramguda,17.40760,78.34627,Rs. 14000,let,2026-09-06
+R054,L02,Private room in Tolichowki,PRIVATE,yes,Tolichowki,17.40181,78.39431,Rs. 10000,inactive,2026-11-03
+R055,L16,Shared room in Miyapur,shared,no,Miyapur,17.50583,78.36643,11000,active,2026-09-07
+R056,L43,Private room in Nanakramguda,PRIVATE,no,Nanakramguda,17.41450,78.33551,7500,let,2026-08-31
+R057,L50,Private room in Kondapur,private,yes,Kondapur,17.46366,78.37568,7500,inactive,2026-09-07
+R058,L36,Private room in Madhapur,private,No,Madhapur,17.43090,78.38598,9k,active,2026-10-04
+R059,L31,Private room in Banjara Hills,private,yes,Banjara Hills,17.39527,78.44873,Rs. 10000,active,2026-09-24
+R060,L50,Shared room in Kondapur,shared ,yes,Kondapur,17.45585,78.35713,16k,active,2026-10-20
+R061,L54,Private room in Tolichowki,Private,yes,Tolichowki,17.40061,78.42776,"22,000",active,2026-10-24
+R062,L48,Shared room in Nanakramguda,shared ,no,Nanakramguda,17.41965,78.36065,9000,active,2026-08-30
+R063,L34,Shared room in Kondapur,shared,no,Kondapur,17.47389,78.34692,11000/month,active,2026-10-12
+R064,L08,Private room in Kondapur,private,yes,Kondapur,78.37037,17.46820,Rs. 11000,active,2026-08-14
+R065,L32,Private room in Nanakramguda,private,no,Nanakramguda,17.41408,78.31617,"Rs 10,000",active,2026-08-19
+R066,L09,Studio room in Tolichowki,studio,Yes,Tolichowki,17.39805,78.41342,14000/month,inactive,2026-08-02
+R067,L26,Private room in Miyapur,private,no,Miyapur,17.48966,78.38523,"12,500",active,2026-11-02
+R068,L29,Private room in Miyapur,private,yes,Miyapur,17.47615,78.35610,8000,active,2026-09-12
+R069,L27,Shared room in Gachibowli,shared ,no,Gachibowli,17.42944,78.34061,"Rs 12,500",let,2026-08-22
+R070,L07,Private room in Gachibowli,private,no,Gachibowli,17.44474,78.34617,18k,active,2026-10-27
+R071,L34,Studio room in Kondapur,studio,No,Kondapur,17.46776,78.37206,9k,active,2026-09-12
+R072,L22,Studio room in Ameerpet,studio,yes,Ameerpet,17.43676,78.45318,14000/month,active,2026-09-14
+R073,L29,Shared room in Ameerpet,shared,no,Ameerpet,17.44549,78.45093,"28,000",active,2026-08-09
+R074,L32,Shared room in Gachibowli,Shared,yes,Gachibowli,17.44256,78.35482,13000,inactive,2026-09-09
+R075,L46,Studio room in Madhapur,studio,Yes,Madhapur,17.47874,78.38939,6k,active,2026-09-21
+R076,L17,Studio room in Nanakramguda,Studio,yes,Nanakramguda,17.40606,78.33105,"Rs 8,000",active,2026-09-27
+R077,L31,Private room in Nanakramguda,private,Yes,Nanakramguda,17.41113,78.33388,Rs. 13000,active,2026-09-19
+R078,L24,Private room in Tolichowki, private,no,Tolichowki,17.39178,78.41111,"Rs 9,000",let,2026-10-28
+R079,L27,Studio room in Banjara Hills,studio,No,Banjara Hills,17.41602,78.44688,12000,active,2026-08-29
+R080,L41,Shared room in Tolichowki,shared ,no,Tolichowki,17.38782,78.42376,"6,000",active,2026-08-01
+R081,L51,Private room in Nanakramguda,private,Yes,Nanakramguda,17.42611,78.37786,16000,active,2026-09-15
+R082,L60,Private room in Nanakramguda,private,yes,Nanakramguda,17.40217,78.35946,"Rs 8,000",inactive,2026-09-30
+R083,L24,Shared room in Gachibowli,shared,Yes,Gachibowli,,,10000/month,active,2026-08-03
+R084,L28,Studio room in Banjara Hills,studio,yes,Banjara Hills,78.44816,17.39658,12.5k,active,2026-10-04
+R085,L51,Private room in Tolichowki,Private,yes,Tolichowki,17.38708,78.41853,"16,000",active,2026-08-15
+R086,L18,Studio room in Ameerpet,studio,yes,Ameerpet,17.46475,78.43840,"13,000",active,2026-09-27
+R087,L22,Private room in Gachibowli,private,yes,Gachibowli,17.44410,78.34590,12k,active,2026-09-08
+R088,L23,Private room in Gachibowli,private,No,Gachibowli,17.44237,78.37613,14k,active,2026-09-27
+R089,L26,Shared room in Banjara Hills,shared,No,Banjara Hills,,,13k,active,2026-09-01
+R090,L49,Private room in Madhapur,private,yes,Madhapur,0,0,Rs. 8000,let,2026-10-19
+R091,L25,Private room in Banjara Hills,private,no,Banjara Hills,17.41656,78.43136,11000,active,2026-11-01
+R092,L10,Private room in Banjara Hills,private,no,Banjara Hills,17.41317,78.42513,7500,active,2026-09-17
+R093,L19,Private room in Nanakramguda,Private,Yes,Nanakramguda,17.40175,78.34035,8k,active,2026-08-07
+R094,L32,Shared room in Banjara Hills,shared,no,Banjara Hills,17.41356,78.46739,7500,active,2026-08-12
+R095,L52,Private room in Manikonda,private,No,Manikonda,17.41198,78.37316,9000,inactive,2026-10-22
+R096,L39,Shared room in Gachibowli,Shared,Yes,Gachibowli,17.44660,78.35828,"Rs 6,000",active,2026-08-23
+R097,L48,Studio room in Gachibowli,Studio,no,Gachibowli,17.43373,78.34447,"12,500",active,2026-10-11
+R098,L46,Private room in Miyapur,private,Yes,Miyapur,17.50263,78.34679,7.5k,active,2026-09-03
+R099,L05,Private room in Banjara Hills,private,yes,Banjara Hills,17.40565,78.42517,Rs. 13000,inactive,2026-09-11
+R100,L50,Private room in Banjara Hills,Private,No,Banjara Hills,17.42066,78.43310,18000,active,2026-08-24
+R101,L57,Studio room in Madhapur,studio,no,Madhapur,17.44897,78.37127,Rs. 28000,let,2026-08-20
+R102,L25,Private room in Ameerpet,Private,yes,Ameerpet,17.41991,78.42752,6000,inactive,2026-08-26
+R103,L23,Shared room in Madhapur,Shared,Yes,Madhapur,17.45293,78.40653,16000/month,let,2026-08-26
+R104,L02,Private room in Miyapur,private,yes,Miyapur,17.48864,78.37235,"18,000",inactive,2026-10-15
+R105,L26,Private room in Nanakramguda,private,no,Nanakramguda,17.40748,78.33449,Rs. 9000,active,2026-08-24
+R106,L21,Private room in Gachibowli,private,Yes,Gachibowli,17.44471,78.37629,Rs. 9000,active,2026-10-21
+R107,L58,Studio room in Madhapur,Studio,No,Madhapur,17.45864,78.39743,12500,active,2026-09-02
+R108,L55,Private room in Nanakramguda,private,yes,Nanakramguda,17.41695,78.32565,16000,active,2026-09-06
+R109,L38,Studio room in Tolichowki,Studio,yes,Tolichowki,17.39052,78.41074,"Rs 22,000",active,2026-08-20
+R110,L29,Private room in Miyapur,private,Yes,Miyapur,17.49620,78.35067,13000/month,active,2026-08-28
+R111,L21,Studio room in Miyapur,Studio,yes,Miyapur,17.48684,78.35293,18000/month,active,2026-10-03
+R112,L26,Shared room in Banjara Hills,shared ,No,Banjara Hills,17.41619,78.43536,"10,000",let,2026-09-18
+R113,L21,Shared room in Manikonda,shared,yes,Manikonda,17.39859,78.36571,6000/month,active,2026-09-25
+R114,L18,Shared room in Banjara Hills,shared,yes,Banjara Hills,17.41331,78.43767,"16,000",active,2026-10-23
+R115,L34,Shared room in Banjara Hills,shared,No,Banjara Hills,17.42441,78.42418,12000,inactive,2026-09-13
+R116,L20,Private room in Kondapur,PRIVATE,yes,Kondapur,17.48170,78.35960,"8,000",active,2026-09-05
+R117,L60,Shared room in Manikonda,shared,No,Manikonda,78.38552,17.40041,10000/month,active,2026-09-06
+R118,L28,Shared room in Tolichowki,Shared,no,Tolichowki,17.41574,78.39411,22k,let,2026-10-04
+R119,L38,Private room in Ameerpet,private,Yes,Ameerpet,17.41933,78.46629,12.5k,inactive,2026-10-04
+R120,L06,Shared room in Nanakramguda,shared,no,Nanakramguda,17.41055,78.34812,"Rs 13,000",active,2026-09-28
+R121,L04,Private room in Tolichowki,PRIVATE,No,Tolichowki,17.38894,78.41043,Rs. 12000,let,2026-08-18
+R122,L14,Shared room in Nanakramguda,shared,no,Nanakramguda,17.40991,78.34058,"14,000",active,2026-08-11
+R123,L35,Private room in Madhapur,private,no,Madhapur,17.44535,78.39196,"Rs 13,000",active,2026-08-10
+R124,L50,Shared room in Manikonda,shared,yes,Manikonda,17.41100,78.38305,7.5k,inactive,2026-10-13
+R125,L43,Studio room in Kukatpally,studio,Yes,Kukatpally,17.47613,78.38970,8000/month,active,2026-09-16
+R126,L23,Private room in Ameerpet,private,no,Ameerpet,17.44541,78.44661,"15,000",active,2026-08-19
+R127,L13,Shared room in Madhapur,shared,yes,Madhapur,0,0,"8,000",active,2026-09-15
+R128,L46,Private room in Gachibowli,Private,No,Gachibowli,17.43797,78.32247,"Rs 16,000",active,2026-10-15
+R129,L36,Private room in Banjara Hills,Private,No,Banjara Hills,17.43405,78.42807,9000/month,inactive,2026-09-30
+R130,L60,Shared room in Madhapur,shared,yes,Madhapur,17.43699,78.39787,28000,active,2026-08-29
+R131,L05,Private room in Manikonda,Private,yes,Manikonda,17.41702,78.38031,Rs. 15000,active,2026-10-19
+R132,L53,Private room in Banjara Hills,private,no,Banjara Hills,17.40786,78.43407,11k,active,2026-09-18
+R133,L46,Studio room in Madhapur,studio,no,Madhapur,17.44580,78.38392,"Rs 13,000",active,2026-08-09
+R134,L36,Shared room in Tolichowki,shared ,Yes,Tolichowki,17.42082,78.40206,"Rs 12,000",active,2026-09-17
+R135,L37,Private room in Madhapur,private,no,Madhapur,17.44095,78.37131,"Rs 10,000",active,2026-10-09
+R136,L32,Private room in Tolichowki,private,no,Tolichowki,17.38866,78.41671,14000,active,2026-08-26
+R137,L27,Private room in Ameerpet,private,no,Ameerpet,17.43202,78.43649,12000/month,active,2026-10-20
+R138,L26,Shared room in Banjara Hills,shared,no,Banjara Hills,17.40368,78.42565,11000,active,2026-08-28
+R139,L11,Private room in Kondapur,private,no,Kondapur,17.47966,78.34459,8k,active,2026-08-12
+R140,L10,Shared room in Tolichowki,shared,yes,Tolichowki,78.40899,17.40746,Rs. 22000,let,2026-09-02
+R141,L34,Shared room in Madhapur,shared,yes,Madhapur,17.42995,78.39154,"7,500",let,2026-09-28
+R142,L49,Shared room in Ameerpet,shared,yes,Ameerpet,17.44221,78.44378,"18,000",inactive,2026-08-22
+R143,L07,Private room in Kondapur,Private,Yes,Kondapur,17.45207,78.34365,12000,active,2026-08-13
+R144,L16,Shared room in Kondapur,shared,Yes,Kondapur,17.46178,78.37511,16k,let,2026-09-08
+R145,L28,Shared room in Kukatpally,shared,no,Kukatpally,17.49418,78.39472,6000,active,2026-09-17
+R146,L03,Shared room in Kondapur,shared,no,Kondapur,17.48402,78.36597,9000,active,2026-10-04
+R147,L30,Shared room in Kondapur,shared,Yes,Kondapur,17.45688,78.35332,"22,000",active,2026-08-29
+R148,L19,Private room in Ameerpet,private,Yes,Ameerpet,17.43634,78.43270,"Rs 18,000",inactive,2026-08-24
+R149,L11,Shared room in Manikonda,shared,Yes,Manikonda,17.38563,78.38443,"Rs 7,500",active,2026-09-28
+R150,L58,Private room in Madhapur,private,yes,Madhapur,17.42168,78.39596,12000,active,2026-08-21
+R151,L54,Private room in Madhapur,private,no,Madhapur,17.45896,78.40338,16k,active,2026-10-09
+R152,L55,Private room in Madhapur,Private,Yes,Madhapur,17.45774,78.40404,"6,000",active,2026-08-06
+R153,L32,Shared room in Manikonda,shared,yes,Manikonda,17.40337,78.38448,15k,active,2026-08-09
+R154,L47,Studio room in Kondapur,studio,no,Kondapur,17.46911,78.35451,"28,000",active,2026-10-29
+R155,L04,Private room in Gachibowli,private,no,Gachibowli,17.44010,78.37586,"12,000",active,2026-09-17
+R156,L18,Studio room in Miyapur,studio,no,Miyapur,17.49639,78.35611,18000,active,2026-08-25
+R157,L09,Private room in Miyapur,private,Yes,Miyapur,17.49825,78.35981,12500/month,active,2026-10-31
+R158,L21,Shared room in Kukatpally,shared,yes,Kukatpally,17.47187,78.41258,"6,000",active,2026-10-20
+R159,L47,Shared room in Tolichowki,shared,no,Tolichowki,17.42671,78.39545,"Rs 13,000",let,2026-09-21
+R160,L27,Private room in Ameerpet,private,no,Ameerpet,17.43202,78.46728,18000,active,2026-08-27
+R161,L42,Private room in Kukatpally,private,yes,Kukatpally,17.48682,78.41440,28000/month,active,2026-08-30
+R162,L59,Shared room in Kondapur,shared,Yes,Kondapur,,,22000,active,2026-08-10
+R163,L42,Private room in Ameerpet,private,No,Ameerpet,17.45236,78.44248,9000,active,2026-08-26
+R164,L39,Private room in Ameerpet,private,yes,Ameerpet,17.44808,78.44409,"Rs 18,000",active,2026-10-22
+R165,L52,Private room in Tolichowki,private,no,Tolichowki,17.39707,78.41399,"6,000",active,2026-10-05
+R166,L59,Private room in Kukatpally,private,yes,Kukatpally,17.46788,78.42557,12500,active,2026-10-18
+R167,L37,Private room in Tolichowki,private,yes,Tolichowki,0,0,9000,active,2026-10-11
+R168,L26,Private room in Banjara Hills,private,yes,Banjara Hills,17.42817,78.43866,Rs. 12000,active,2026-09-06
+R169,L11,Shared room in Madhapur,shared,Yes,Madhapur,17.45733,78.41046,14000/month,active,2026-09-19
+R170,L39,Private room in Kukatpally,private,No,Kukatpally,17.47570,78.41302,10k,active,2026-10-16
+R171,L31,Private room in Nanakramguda, private,no,Nanakramguda,17.41021,78.33689,"12,500",inactive,2026-10-09
+R172,L27,Private room in Tolichowki,Private,yes,Tolichowki,17.40702,78.40892,"22,000",active,2026-10-16
+R173,L32,Private room in Gachibowli,private,yes,Gachibowli,17.45576,78.35162,Rs. 28000,active,2026-08-17
+R174,L07,Studio room in Nanakramguda,studio,yes,Nanakramguda,17.43106,78.35530,9000,active,2026-08-21
+R175,L23,Studio room in Kondapur,studio,No,Kondapur,17.45150,78.34873,"15,000",active,2026-09-05
+R176,L23,Shared room in Kondapur,shared,yes,Kondapur,17.46932,78.36018,8k,active,2026-09-06
+R177,L11,Private room in Gachibowli,private,no,Gachibowli,17.42510,78.34614,"11,000",active,2026-10-02
+R178,L08,Private room in Kondapur,private,yes,Kondapur,17.44617,78.36616,16000,active,2026-10-19
+R179,L12,Private room in Banjara Hills,private,yes,Banjara Hills,17.40913,78.44853,28000,active,2026-08-26
+R180,L46,Shared room in Gachibowli,shared,Yes,Gachibowli,17.44273,78.36730,6000/month,active,2026-09-10
+R181,L42,Private room in Gachibowli,private,no,Gachibowli,17.41258,78.34890,9000,active,2026-10-02
+R182,L14,Studio room in Manikonda,studio,no,Manikonda,17.41883,78.39110,12500,active,2026-08-29
+R183,L53,Private room in Gachibowli,private,no,Gachibowli,17.44410,78.34890,"Rs 15,000",active,2026-10-20
+R184,L40,Private room in Miyapur,PRIVATE,yes,Miyapur,17.49236,78.34343,Rs. 28000,let,2026-09-16
+R185,L17,Private room in Gachibowli,private,no,Gachibowli,17.44010,78.32137,14000,active,2026-09-17
+R186,L27,Private room in Nanakramguda,private,no,Nanakramguda,17.41903,78.33943,"12,500",active,2026-10-13
+R187,L19,Private room in Ameerpet,private,yes,Ameerpet,17.40367,78.45462,12.5k,active,2026-08-06
+R188,L31,Private room in Ameerpet,private,No,Ameerpet,17.41781,78.43719,"28,000",let,2026-08-25
+R189,L22,Shared room in Tolichowki,shared,Yes,Tolichowki,17.40173,78.42594,12500,active,2026-08-10
+R190,L34,Private room in Gachibowli,private,yes,Gachibowli,17.44410,78.35190,15.5k,active,2026-08-05
+R191,L04,Studio room in Banjara Hills,studio,no,Banjara Hills,17.40838,78.45019,11000/month,inactive,2026-10-22
+R192,L56,Shared room in Kukatpally,shared,no,Kukatpally,17.46279,78.42211,Rs. 15000,let,2026-08-13
+R193,L20,Shared room in Madhapur,shared,yes,Madhapur,17.44187,78.38157,14000/month,active,2026-09-18
+R194,L32,Private room in Tolichowki,private,yes,Tolichowki,17.39010,78.40904,"28,000",active,2026-08-14
+R195,L08,Private room in Gachibowli,private,yes,Gachibowli,17.44120,78.33445,8000,active,2026-10-12
+R196,L52,Private room in Kukatpally,PRIVATE,no,Kukatpally,17.49502,78.41338,Rs. 14000,inactive,2026-08-07
+R197,L46,Private room in Gachibowli, private,yes,Gachibowli,17.42973,78.32184,16k,active,2026-09-10
+R198,L03,Shared room in Madhapur,shared,no,Madhapur,17.45738,78.35837,11000/month,active,2026-08-09
+R199,L37,Shared room in Miyapur,shared ,no,Miyapur,17.48659,78.35994,12500,let,2026-10-01
+R200,L16,Studio room in Kondapur,studio,yes,Kondapur,17.47253,78.35331,"9,000",let,2026-10-31
+R201,L16,Shared room in Madhapur,Shared,Yes,Madhapur,17.47442,78.38659,12k,active,2026-08-12
+R202,L51,Studio room in Kondapur,studio,yes,Kondapur,,,"Rs 18,000",inactive,2026-09-15
+R203,L43,Private room in Gachibowli,private,No,Gachibowli,17.42712,78.32722,"Rs 16,000",let,2026-09-16
+R204,L32,Private room in Kukatpally,PRIVATE,no,Kukatpally,17.48389,78.41267,8000,active,2026-10-31
+R205,L12,Shared room in Nanakramguda,shared,no,Nanakramguda,17.40491,78.33643,14000,inactive,2026-10-08
+R206,L22,Private room in Miyapur,private,Yes,Miyapur,17.49714,78.35876,9000,active,2026-08-31
+R207,L31,Private room in Gachibowli,private,No,Gachibowli,17.46735,78.34890,12000,active,2026-10-10
+R208,L54,Private room in Madhapur,private,no,Madhapur,17.45408,78.41392,Rs. 13000,let,2026-10-27
+R209,L52,Studio room in Kukatpally,studio,Yes,Kukatpally,17.48476,78.42088,"12,000",active,2026-09-09
+R210,L59,Private room in Banjara Hills,private,no,Banjara Hills,17.41193,78.44797,7500,inactive,2026-09-10
+R211,L27,Private room in Nanakramguda,PRIVATE,no,Nanakramguda,17.44076,78.34227,11k,active,2026-08-24
+R212,L17,Private room in Banjara Hills,PRIVATE,No,Banjara Hills,17.42950,78.44145,"Rs 16,000",active,2026-08-10
+R213,L12,Private room in Madhapur,private,yes,Madhapur,17.45982,78.38019,28000,active,2026-09-20
+R214,L41,Private room in Ameerpet,private,no,Ameerpet,17.44307,78.42551,"Rs 12,000",active,2026-10-13
+R215,L25,Private room in Manikonda, private,no,Manikonda,17.39538,78.38711,16000,active,2026-09-03
+R216,L46,Private room in Manikonda,private,Yes,Manikonda,17.38348,78.38154,12500,active,2026-09-18
+R217,L10,Shared room in Madhapur,shared,No,Madhapur,17.45319,78.37625,18000,active,2026-10-09
+R218,L12,Shared room in Kukatpally,shared ,No,Kukatpally,17.47728,78.42907,"14,000",active,2026-09-06
+R219,L44,Private room in Tolichowki,private,yes,Tolichowki,17.40788,78.41445,12k,active,2026-10-06
+R220,L36,Private room in Nanakramguda,private,No,Nanakramguda,17.39571,78.33643,12500,active,2026-10-08
+R221,L11,Private room in Kukatpally,private,No,Kukatpally,17.48658,78.40057,11000/month,let,2026-09-04
+R222,L12,Private room in Madhapur,private,no,Madhapur,,,11k,active,2026-10-14
+R223,L08,Studio room in Nanakramguda,studio,no,Nanakramguda,17.40775,78.34892,"Rs 7,500",inactive,2026-09-12
+R224,L58,Private room in Kukatpally,private,yes,Kukatpally,0,0,7500/month,active,2026-10-01
+R225,L47,Shared room in Banjara Hills,shared,no,Banjara Hills,17.39630,78.45881,16k,active,2026-08-16
+R226,L33,Private room in Banjara Hills,private,no,Banjara Hills,17.41461,78.45722,"11,000",active,2026-09-23
+R227,L53,Studio room in Gachibowli,studio,no,Gachibowli,17.44750,78.34155,16000,active,2026-10-24
+R228,L21,Private room in Gachibowli,PRIVATE,yes,Gachibowli,17.44392,78.34895,"Rs 28,000",active,2026-10-19
+R229,L19,Shared room in Nanakramguda,shared,Yes,Nanakramguda,17.41566,78.35054,"18,000",active,2026-10-06
+R230,L22,Private room in Madhapur,private,no,Madhapur,17.45233,78.39516,9k,active,2026-10-13
+R231,L15,Private room in Kondapur,private,yes,Kondapur,17.45824,78.34325,12000/month,inactive,2026-10-21
+R232,L05,Private room in Nanakramguda,PRIVATE,no,Nanakramguda,17.42946,78.34793,12500,active,2026-08-17
+R233,L37,Private room in Kondapur,private,No,Kondapur,17.45816,78.34631,Rs. 12000,active,2026-08-05
+R234,L13,Shared room in Nanakramguda,shared,no,Nanakramguda,17.41674,78.31560,"10,000",let,2026-09-13
+R235,L56,Shared room in Manikonda,shared ,no,Manikonda,17.40008,78.37928,"18,000",active,2026-10-09
+R236,L33,Private room in Manikonda,private,yes,Manikonda,17.41165,78.38367,"8,000",active,2026-09-17
+R237,L28,Private room in Kondapur,Private,No,Kondapur,17.47421,78.36250,28000,active,2026-10-08
+R238,L09,Private room in Tolichowki,PRIVATE,yes,Tolichowki,17.41320,78.42192,18k,active,2026-08-24
+R239,L35,Private room in Banjara Hills,Private,Yes,Banjara Hills,17.40837,78.43654,12000,active,2026-09-28
+R240,L39,Shared room in Ameerpet,shared,yes,Ameerpet,17.45681,78.42787,11k,active,2026-10-31
